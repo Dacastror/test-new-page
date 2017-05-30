@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.db
+.DS_Store
+__pycache__
+myvenv
+db.sqlite3
+.coverage
+local_settings.py
+/static
